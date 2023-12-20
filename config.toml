@@ -26,314 +26,87 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Home"
     identifier = "menu.home"
-    url        = "/"
+    url        = "/img/hwa_nan_campus.webp"
     weight     = 1
-
-[[menu.main]]
-    name       = "Option 1: Default Page"
-    url        = "/"
-    weight     = 1
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 2: Application"
-    url        = "/"
-    weight     = 2
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 3: Startup"
-    url        = "/"
-    weight     = 3
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 4: Agency"
-    url        = "/"
-    weight     = 4
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 5: Portfolio"
-    url        = "/"
-    weight     = 5
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Features"
-    identifier = "menu.features"
-    url        = "/img/template-easy-customize.png"
-    weight     = 3
-
-[[menu.main]]
-    name       = "Shortcodes"
-    identifier = "section.shortcodes"
-    url        = ""
-    weight     = 1
-    parent     = "menu.features"
-    post       = 1
-
-[[menu.main]]
-    name       = "Header variations"
-    identifier = "section.headervariations"
-    url        = ""
-    weight     = 2
-    parent     = "menu.features"
-    post       = 2
-
-[[menu.main]]
-    name       = "Accordions"
-    url        = ""
-    weight     = 1
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Alerts"
-    url        = ""
-    weight     = 2
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Buttons"
-    url        = ""
-    weight     = 3
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Content Boxes"
-    url        = ""
-    weight     = 4
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Horizontal Blocks"
-    url        = ""
-    weight     = 5
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Pagination"
-    url        = ""
-    weight     = 6
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Tabs"
-    url        = ""
-    weight     = 7
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Typography"
-    url        = ""
-    weight     = 8
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Default Sticky Header"
-    url        = ""
-    weight     = 1
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "No Sticky Header"
-    url        = ""
-    weight     = 2
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "Light Header"
-    url        = ""
-    weight     = 3
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "menu.portfolio"
-    url        = "/img/template-homepage.png"
-    weight     = 3
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.portfolio"
-    post       = 1
-
-[[menu.main]]
-    name       = "2 Columns"
-    url        = ""
-    weight     = 1
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "2 Columns With Negative Space"
-    url        = ""
-    weight     = 2
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "3 Columns"
-    url        = ""
-    weight     = 3
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "3 Columns With Negative Space"
-    url        = ""
-    weight     = 4
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns"
-    url        = ""
-    weight     = 5
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns With Negative Space"
-    url        = ""
-    weight     = 6
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail"
-    url        = ""
-    weight     = 7
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail 2"
-    url        = ""
-    weight     = 8
-    parent     = "section.portfolio"
 
 [[menu.main]]
     name       = "About"
     identifier = "section.about"
     url        = ""
+    weight     = 1
+    parent     = "menu.home"
+    post       = 1
+
+[[menu.main]]
+    name       = "Introduction"
+    identifier = "section.intro"
+    url        = ""
     weight     = 2
-    parent     = "menu.portfolio"
+    parent     = "menu.home"
+    post       = 1
+
+[[menu.main]]
+    name       = "Study Abroad"
+    identifier = "section.study-abroad"
+    url        = ""
+    weight     = 1
+    parent     = "menu.home"
     post       = 2
 
 [[menu.main]]
     name       = "About Us"
-    url        = ""
+    url        = "/"
     weight     = 1
     parent     = "section.about"
 
 [[menu.main]]
-    name       = "Our Team"
-    url        = ""
+    name       = "Our Unique College History"
+    url        = "/"
+    weight     = 1
+    parent     = "section.intro"
+
+[[menu.main]]
+    name       = "Hwa Nan Present and Future"
+    url        = "/"
     weight     = 2
-    parent     = "section.about"
+    parent     = "section.intro"
 
 [[menu.main]]
-    name       = "Marketing"
-    identifier = "section.marketing"
-    url        = ""
+    name       = "Alumnae Activities"
+    url        = "/"
     weight     = 3
-    parent     = "menu.portfolio"
-    post       = 2
+    parent     = "section.intro"
 
 [[menu.main]]
-    name       = "Packages"
-    url        = ""
+    name       = "History of International Exchanges"
+    url        = "/"
     weight     = 1
-    parent     = "section.marketing"
+    parent     = "section.study-abroad"
 
 [[menu.main]]
-    name       = "All Pages"
-    identifier = "menu.allpages"
-    url        = ""
+    name       = "Centenary University"
+    url        = "/"
+    weight     = 2
+    parent     = "section.study-abroad"
+
+[[menu.main]]
+    name       = "Morningside College"
+    url        = "/"
+    weight     = 3
+    parent     = "section.study-abroad"
+
+[[menu.main]]
+    name       = "Pudget Sound University"
+    url        = "/"
     weight     = 4
+    parent     = "section.study-abroad"
 
 [[menu.main]]
-    name       = "Home"
-    identifier = "section.ap-home"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 1
+    name       = "Emporia State University"
+    url        = "/"
+    weight     = 5
+    parent     = "section.study-abroad"
 
-[[menu.main]]
-    name       = "About"
-    identifier = "section.ap-about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.ap-marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.ap-portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "User Pages"
-    identifier = "section.ap-userpages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "Shop"
-    identifier = "section.ap-shop"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Shop - Order Process"
-    identifier = "section.ap-shoporderprocess"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Contact"
-    identifier = "section.ap-contact"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Pages"
-    identifier = "section.ap-pages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "section.ap-blog"
-    url        = "/blog/"
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog Listing Big"
-    url        = "/blog/"
-    weight     = 1
-    parent     = "section.ap-blog"
 
 [[menu.main]]
     name       = "Blog"
@@ -342,16 +115,22 @@ pluralizelisttitles = false
     weight     = 5
 
 [[menu.main]]
-    name       = "FAQ"
-    identifier = "menu.faq"
+    name       = "Recruitment"
+    identifier = "menu.recruitment"
     url        = "/faq/"
     weight     = 6
+
+[[menu.main]]
+    name       = "Donation"
+    identifier = "menu.donation"
+    url        = "/faq/"
+    weight     = 7
 
 [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact/"
-    weight     = 7
+    weight     = 8
 
 
 # Top bar social links menu
@@ -359,14 +138,14 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 1
     name = "Phone"
-    url = "tel:+12 34 567 89 01"
+    url = "tel:+86 XXXXXXXXXXX"
     pre = "<i class='fas fa-2x fa-phone'></i>"
 
-[[menu.topbar]]
-    weight = 2
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fab fa-2x fa-github'></i>"
+# [[menu.topbar]]
+#     weight = 2
+#     name = "GitHub"
+#     url = "https://github.com/devcows/hugo-universal-theme"
+#     pre = "<i class='fab fa-2x fa-github'></i>"
 
 [[menu.topbar]]
     weight = 3
@@ -383,7 +162,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:hello@universal.com"
+    url = "mailto:hwananalumnaeinc@gmail.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -399,14 +178,14 @@ pluralizelisttitles = false
     default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-    enableGoogleMaps = true
+    enableGoogleMaps = false
     googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
 
     latitude = "-12.043333"
     longitude = "-77.028333"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "violet"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -472,9 +251,9 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+    text = """<p class="hidden-sm hidden-xs">Contact us on +86 XXXXXXXXXXX or hwananalumnaeinc@gmail.com.</p>
+      <p class="hidden-md hidden-lg"><a href="tel:+86 XXXXXXXXXXX" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <a href="mailto:hwananalumnaeinc@gmail.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
 
@@ -492,7 +271,7 @@ pluralizelisttitles = false
 
 [params.carouselTestimonials]
     items = 4
-    auto_play = false
+    auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
 
@@ -518,7 +297,7 @@ pluralizelisttitles = false
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
     title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    subtitle = "这里可以放院长简介/校长简介"
 
 [params.see_more]
     enable = true
