@@ -5,13 +5,10 @@
     <loc>https://igarycc.github.io/authors/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://igarycc.github.io/blog/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
     <loc>https://igarycc.github.io/categories/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://igarycc.github.io/blog/2021/08/01/categories-post/</loc>
+    <loc>https://igarycc.github.io/news/categories-post/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://igarycc.github.io/tags/golang/</loc>
@@ -27,6 +24,9 @@
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://igarycc.github.io/categories/lorem/</loc>
+    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+  </url><url>
+    <loc>https://igarycc.github.io/news/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://igarycc.github.io/tags/programming/</loc>
@@ -47,19 +47,19 @@
     <loc>https://igarycc.github.io/authors/jane-doe/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>https://igarycc.github.io/blog/2015/10/02/linked-post/</loc>
+    <loc>https://igarycc.github.io/news/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
     <loc>https://igarycc.github.io/tags/go/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://igarycc.github.io/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>https://igarycc.github.io/news/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://igarycc.github.io/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>https://igarycc.github.io/news/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://igarycc.github.io/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>https://igarycc.github.io/news/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
     <loc>https://igarycc.github.io/categories/starting/</loc>
@@ -71,6 +71,6 @@
   </url><url>
     <loc>https://igarycc.github.io/tags/ipsum/</loc>
   </url><url>
-    <loc>https://igarycc.github.io/blog/1/01/01/migrate-from-jekyll/</loc>
+    <loc>https://igarycc.github.io/news/migrate-from-jekyll/</loc>
   </url>
 </urlset>
