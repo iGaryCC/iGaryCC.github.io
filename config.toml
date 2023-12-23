@@ -293,7 +293,7 @@ pluralizelisttitles = false
 
 [params.features]
     enable = true
-    cols = 3 # Default: 3, Available values 2,3,4,6
+    cols = 4 # Default: 3, Available values 2,3,4,6
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more information take a look at the README.
@@ -304,7 +304,7 @@ pluralizelisttitles = false
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
     title = "List of Presidents"
-    subtitle = "这里可以放院长简介 / 按时间顺序排列的学校历史简介"
+    subtitle = "【此行可替换或删除】这里可以放院长简介"
 
 [params.see_more]
     enable = true
