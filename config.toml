@@ -79,31 +79,31 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "History of International Exchanges"
-    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/copy-of-emporia-state"
+    url        = "/study-abroad/international-exchange-history/"
     weight     = 1
     parent     = "section.study-abroad"
 
 [[menu.main]]
     name       = "Centenary University"
-    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/study-abroad-centenary"
+    url        = "/study-abroad/centenary/"
     weight     = 2
     parent     = "section.study-abroad"
 
 [[menu.main]]
     name       = "Morningside College"
-    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/copy-of-centenary"
+    url        = "/study-abroad/morningside/"
     weight     = 3
     parent     = "section.study-abroad"
 
 [[menu.main]]
     name       = "Pudget Sound University"
-    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/copy-of-morningside"
+    url        = "/study-abroad/puget-sound/"
     weight     = 4
     parent     = "section.study-abroad"
 
 [[menu.main]]
     name       = "Emporia State University"
-    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/copy-of-pudget-sound"
+    url        = "/study-abroad/emporia-state/"
     weight     = 5
     parent     = "section.study-abroad"
 
@@ -175,7 +175,7 @@ pluralizelisttitles = false
     viewMorePostLink = "/news/"     # [GaryC] it seems that this config is never used
     author = "Hwa Nan Alumnae Inc"
     defaultKeywords = ["Hwa Nan", "Alumnae"]
-    mainSections = ["news"]         # [GaryC] removed from mainSections: ["blog"]
+    mainSections = ["news", "study-abroad"]         # [GaryC] removed from mainSections: ["blog"]
     defaultDescription = "Hwa Nan Alumnae Inc Official Website"
 
     # Social media
