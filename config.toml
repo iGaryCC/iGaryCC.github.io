@@ -61,7 +61,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Our History"
-    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/history"
+    url        = "/history/"
     weight     = 1
     parent     = "section.intro"
 
