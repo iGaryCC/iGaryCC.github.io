@@ -55,7 +55,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "About Us"
-    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/blank"
+    url        = "/about-us/"
     weight     = 1
     parent     = "section.about"
 
