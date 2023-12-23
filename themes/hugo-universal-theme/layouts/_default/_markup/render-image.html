@@ -1,0 +1,4 @@
+{{/* [GaryC] 实现 markdown 图片自适应屏幕宽度 */}}
+<p>
+    <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" class="img-responsive center-block" {{ with .Title }} title="{{ . }}"{{ end }} />
+</p>
