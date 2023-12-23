@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hwa Nan Alumnae Inc</title>
+    <link>https://igarycc.github.io/authors/hwa-nan-alumnae-inc/</link>
+    <description>Recent content on Hwa Nan Alumnae Inc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://igarycc.github.io/authors/hwa-nan-alumnae-inc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>推文样例模板</title>
+      <link>https://igarycc.github.io/news/my-sample-post/</link>
+      <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
+      
+      <guid>https://igarycc.github.io/news/my-sample-post/</guid>
+      <description>在这里填写文章简要内容概括</description>
+    </item>
+    
+    <item>
+      <title>推文样例-2</title>
+      <link>https://igarycc.github.io/news/sample-post-2/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://igarycc.github.io/news/sample-post-2/</guid>
+      <description>在这里填写文章简要内容概括</description>
+    </item>
+    
+    <item>
+      <title>推文样例-3</title>
+      <link>https://igarycc.github.io/news/sample-post-3/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://igarycc.github.io/news/sample-post-3/</guid>
+      <description>在这里填写文章简要内容概括</description>
+    </item>
+    
+    <item>
+      <title>推文样例-4</title>
+      <link>https://igarycc.github.io/news/sample-post-4/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://igarycc.github.io/news/sample-post-4/</guid>
+      <description>在这里填写文章简要内容概括</description>
+    </item>
+    
+    <item>
+      <title>推文样例-5</title>
+      <link>https://igarycc.github.io/news/sample-post-5/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://igarycc.github.io/news/sample-post-5/</guid>
+      <description>在这里填写文章简要内容概括</description>
+    </item>
+    
+    <item>
+      <title>推文样例-666</title>
+      <link>https://igarycc.github.io/news/sample-post-6/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://igarycc.github.io/news/sample-post-6/</guid>
+      <description>在这里填写文章简要内容概括</description>
+    </item>
+    
+  </channel>
+</rss>

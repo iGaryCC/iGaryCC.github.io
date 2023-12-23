@@ -6,54 +6,80 @@
     <description>Recent content on Hwa Nan Alumnae Inc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://igarycc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 21:29:20 +0200</lastBuildDate><atom:link href="https://igarycc.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Categories Post</title>
-      <link>https://igarycc.github.io/news/categories-post/</link>
+      <title>推文样例模板</title>
+      <link>https://igarycc.github.io/news/my-sample-post/</link>
+      <pubDate>Tue, 01 Aug 2023 21:29:20 +0200</pubDate>
+      
+      <guid>https://igarycc.github.io/news/my-sample-post/</guid>
+      <description>在这里填写文章简要内容概括</description>
+    </item>
+    
+    <item>
+      <title>推文样例-2</title>
+      <link>https://igarycc.github.io/news/sample-post-2/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://igarycc.github.io/news/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]   Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante.</description>
+      <guid>https://igarycc.github.io/news/sample-post-2/</guid>
+      <description>在这里填写文章简要内容概括</description>
     </item>
     
     <item>
-      <title>Linked post</title>
-      <link>https://igarycc.github.io/news/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>推文样例-3</title>
+      <link>https://igarycc.github.io/news/sample-post-3/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://igarycc.github.io/news/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot; Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <guid>https://igarycc.github.io/news/sample-post-3/</guid>
+      <description>在这里填写文章简要内容概括</description>
     </item>
     
     <item>
-      <title>Go is for lovers</title>
-      <link>https://igarycc.github.io/news/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <title>推文样例-4</title>
+      <link>https://igarycc.github.io/news/sample-post-4/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://igarycc.github.io/news/go-is-for-lovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
+      <guid>https://igarycc.github.io/news/sample-post-4/</guid>
+      <description>在这里填写文章简要内容概括</description>
     </item>
     
     <item>
-      <title>Hugo is for lovers</title>
-      <link>https://igarycc.github.io/news/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <title>推文样例-5</title>
+      <link>https://igarycc.github.io/news/sample-post-5/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://igarycc.github.io/news/hugo-is-for-lovers/</guid>
-      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://igarycc.github.io/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+      <guid>https://igarycc.github.io/news/sample-post-5/</guid>
+      <description>在这里填写文章简要内容概括</description>
     </item>
     
     <item>
-      <title>Creating a new theme</title>
-      <link>https://igarycc.github.io/news/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      <title>推文样例-666</title>
+      <link>https://igarycc.github.io/news/sample-post-6/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
-      <guid>https://igarycc.github.io/news/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://igarycc.github.io/news/sample-post-6/</guid>
+      <description>在这里填写文章简要内容概括</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://igarycc.github.io/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://igarycc.github.io/about-us/</guid>
+      <description>Hwa Nan Alumnae Inc. brief history
+Hwa Nan Alumnae Inc. was established in 1984 by Hwa Nan College graduates in USA.
+  Our mission and vision (comes from corporation letter)
+  Gordon: We are the alumnae of Fujian Hwa Nan Women’s College who learned English from native speakers so we could explore the world improving ourselves and helping those we meet along the way for the benefit of our global society.</description>
+    </item>
+    
+    <item>
+      <title>Centenary University</title>
+      <link>https://igarycc.github.io/study-abroad/centenary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://igarycc.github.io/study-abroad/centenary/</guid>
+      <description>Exchanges Program at Centenary University</description>
     </item>
     
     <item>
@@ -62,29 +88,62 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://igarycc.github.io/contact/</guid>
-      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-Please feel free to contact us, our customer service center is working for you 24/7.</description>
+      <description>We are here to help you! Please feel free to contact us using the Contact Form below or email us directly at hwananalumnaeinc@gmail.com.</description>
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>https://igarycc.github.io/faq/</link>
+      <title>Emporia State University</title>
+      <link>https://igarycc.github.io/study-abroad/emporia-state/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://igarycc.github.io/faq/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+      <guid>https://igarycc.github.io/study-abroad/emporia-state/</guid>
+      <description>Exchanges Program at Emporia State University</description>
     </item>
     
     <item>
-      <title>Migrate from Jekyll</title>
-      <link>https://igarycc.github.io/news/migrate-from-jekyll/</link>
+      <title>History of International Exchanges</title>
+      <link>https://igarycc.github.io/study-abroad/international-exchange-history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://igarycc.github.io/news/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
-▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>https://igarycc.github.io/study-abroad/international-exchange-history/</guid>
+      <description>History of International Exchanges</description>
+    </item>
+    
+    <item>
+      <title>International Faculty Recruitment FAQ</title>
+      <link>https://igarycc.github.io/recruitment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://igarycc.github.io/recruitment/</guid>
+      <description>International Faculty Recruitment - Frequently Asked Questions
+ 1. How do I get a visa to come to Hwa Nan to teach? The first step is to complete and send the application for teaching along with a resume and copies of diplomas to Hwa Nan Women&amp;rsquo;s College. You can do this by e-mail which you will find at the end of this website. To be able to teach at Hwa Nan Women’s College, you have to apply for a work visa (Z visa).</description>
+    </item>
+    
+    <item>
+      <title>Morningside College</title>
+      <link>https://igarycc.github.io/study-abroad/morningside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://igarycc.github.io/study-abroad/morningside/</guid>
+      <description>Exchanges Program at Morningside College</description>
+    </item>
+    
+    <item>
+      <title>Our Unique College History</title>
+      <link>https://igarycc.github.io/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://igarycc.github.io/history/</guid>
+      <description>HWA NAN COLLEGE Hwa Nan was a college for women founded by the Women&amp;rsquo;s Foreign Missionary Society of the Methodist Episcopal Church. Its campus on Nantai Island, across the Min River from the city of Foochow, offered lovely views north and south. Hwa Nan evolved from a preparatory school into a four-year college, graduating its first class in 1921. The number of students remained small initially, numbering nine in the graduating class in 1925, and twelve graduates by 1928.</description>
+    </item>
+    
+    <item>
+      <title>University of Puget Sound</title>
+      <link>https://igarycc.github.io/study-abroad/puget-sound/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://igarycc.github.io/study-abroad/puget-sound/</guid>
+      <description>Exchanges Program at University of Puget Sound</description>
     </item>
     
   </channel>
