@@ -123,7 +123,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Recruitment"
     identifier = "menu.recruitment"
-    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/blank-3"
+    url        = "/recruitment/"
     weight     = 6
 
 [[menu.main]]
