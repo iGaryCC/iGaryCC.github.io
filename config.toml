@@ -55,75 +55,81 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "About Us"
-    url        = "/"
+    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/blank"
     weight     = 1
     parent     = "section.about"
 
 [[menu.main]]
     name       = "Our History"
-    url        = "/"
+    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/history"
     weight     = 1
     parent     = "section.intro"
 
 [[menu.main]]
     name       = "Present and Future"
-    url        = "/"
+    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/present-and-future"
     weight     = 2
     parent     = "section.intro"
 
 [[menu.main]]
     name       = "Alumnae Activities"
-    url        = "/"
+    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/alumnae-activities"
     weight     = 3
     parent     = "section.intro"
 
 [[menu.main]]
     name       = "History of International Exchanges"
-    url        = "/"
+    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/copy-of-emporia-state"
     weight     = 1
     parent     = "section.study-abroad"
 
 [[menu.main]]
     name       = "Centenary University"
-    url        = "/"
+    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/study-abroad-centenary"
     weight     = 2
     parent     = "section.study-abroad"
 
 [[menu.main]]
     name       = "Morningside College"
-    url        = "/"
+    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/copy-of-centenary"
     weight     = 3
     parent     = "section.study-abroad"
 
 [[menu.main]]
     name       = "Pudget Sound University"
-    url        = "/"
+    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/copy-of-morningside"
     weight     = 4
     parent     = "section.study-abroad"
 
 [[menu.main]]
     name       = "Emporia State University"
-    url        = "/"
+    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/copy-of-pudget-sound"
     weight     = 5
     parent     = "section.study-abroad"
 
 
+# [[menu.main]]
+#     name       = "Blog"
+#     identifier = "menu.blog"
+#     url        = "/blog/"
+#     weight     = 5
+
 [[menu.main]]
-    name       = "Blog"
-    identifier = "menu.blog"
-    url        = "/blog/"
+    name       = "News & Events"
+    identifier = "menu.news"
+    url        = "/news/"
     weight     = 5
 
 [[menu.main]]
     name       = "Recruitment"
     identifier = "menu.recruitment"
-    url        = "/faq/"
+    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/blank-3"
     weight     = 6
 
 [[menu.main]]
     name       = "Donation"
     identifier = "menu.donation"
-    url        = "https://github.com/iGaryCC/iGaryCC.github.io"
+    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/donation"
     weight     = 7
 
 [[menu.main]]
@@ -166,16 +172,17 @@ pluralizelisttitles = false
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
-    mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    viewMorePostLink = "/news/"     # [GaryC] it seems that this config is never used
+    author = "Hwa Nan Alumnae Inc"
+    defaultKeywords = ["Hwa Nan", "Alumnae"]
+    mainSections = ["news"]         # [GaryC] removed from mainSections: ["blog"]
+    defaultDescription = "Hwa Nan Alumnae Inc Official Website"
 
     # Social media
+    # [GaryC] TODO: 填参数
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/sharing-default.png"
+    default_sharing_image = "img/sharing-default.jpg"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = false
@@ -222,7 +229,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>这是一个placeholder。在这里写一句话介绍华南校友会。</p>"
-    copyright = "© 2023, Hwa Nan Alumnae Inc. All rights reserved."
+    copyright = "© 2024, Hwa Nan Alumnae Inc. All Rights Reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -265,7 +272,7 @@ pluralizelisttitles = false
 
 [params.carouselCustomers]
     items = 6
-    auto_play = false
+    auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
 
@@ -296,29 +303,29 @@ pluralizelisttitles = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
-    title = "Testimonials"
-    subtitle = "这里可以放院长简介/校长简介"
+    title = "List of Presidents"
+    subtitle = "这里可以放院长简介 / 按时间顺序排列的学校历史简介"
 
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
     title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    subtitle = "Check our cloud-archived documents. Access permission may be required."
+    link_url = "https://drive.google.com/drive/folders/1Dv6ZIWxzNbRYT_5JoVsof4PfeB621Uwh"
+    link_text = "Archived Docs"
 
 [params.clients]
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
+    title = "Our Partners & Sponsors"
+    subtitle = "这里可以放一些合作伙伴 / 赞助商的 logo & 链接。如不需要可整块删除。"
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Recent News & Events"
+    subtitle = "【小标题，可删除或更换】这里是 Recent News & Events 的相关文章"
     hide_summary = false
 
 [params.footer.recent_posts]
