@@ -129,7 +129,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Donation"
     identifier = "menu.donation"
-    url        = "https://lily36520.wixsite.com/hwa-nan-alumnae-inc/donation"
+    url        = "/donation/"
     weight     = 7
 
 [[menu.main]]
