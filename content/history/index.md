@@ -28,6 +28,7 @@ The history of Hwa Nan Women's College evokes images of the phoenix, drawing ins
 The original school relied heavily on teachers that were educated internationally.  Funding to support the faculty and scholarships also came from abroad.   When the United States restricted the flow of money to China, Hwa Nan and other missionary supported schools were merged with local schools so that the educational process in Fujian would continue.   The surviving entity eventually became known as Fujian Normal University.  Thus the name—Hwa Nan Women’s College—came to an abrupt conclusion in 1951.  After a hiatus of 33 years the school was reborn in1984 with a new name:  Fujian Hwa Nan Women’s College.  It thus became the oldest women’s college in modern China.  In both cases Hwa Nan has served as a unique resource for Chinese women, nurturing generations of skilled and empowered individuals. New Hwa Nan has gradually grown fulfilling changing societal needs in a rapidly evolving society.
 
 
+---
 ### Old Hwa Nan College of Letters and Sciences
 
 A college for woman does not suddenly magically appear.  It is the top of an educational structure that relies on quality middle schools which in turn rely on quality elementary schools.  This process began much earlier following the first Opium War and the Treaty of Wangxia, when the Ladies China Missionary Society in Baltimore, Maryland sent two women missionaries who established the “Foochow Girls’ Boarding School” in 1859.  By 1880, the school's leaders envisioned a college for women to provide further educational opportunities equal to those available to men.  Many dreamed, a few articulated but what was needed was action.
@@ -60,6 +61,7 @@ Dr. Lucy Wang with a PhD in education from Columbia University was inaugurated p
 In 1951, when financial support from outside China was restricted, Hwa Nan College was merged with other schools including Fukien Christian University to keep them from closing and this new entity eventually evolved into Fujian Normal University.
 
 
+---
 ### Fujian Hwa Nan Women's College
 
 The rebirth of Hwa Nan Women's College began in 1984 when elderly alumnae heard about a reunion of another former missionary women's college. Encouraged by this event, they convened a group of over a hundred alumnae in the old Hwa Nan buildings. Reinvigorated by their spirit of outreach and service, they envisioned the rebirth of Hwa Nan.
