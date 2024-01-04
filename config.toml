@@ -84,20 +84,20 @@ pluralizelisttitles = false
     parent     = "section.study-abroad"
 
 [[menu.main]]
+    name       = "University of Puget Sound"
+    url        = "/study-abroad/puget-sound/"
+    weight     = 2
+    parent     = "section.study-abroad"
+
+[[menu.main]]
     name       = "Centenary University"
     url        = "/study-abroad/centenary/"
-    weight     = 2
+    weight     = 3
     parent     = "section.study-abroad"
 
 [[menu.main]]
     name       = "Morningside College"
     url        = "/study-abroad/morningside/"
-    weight     = 3
-    parent     = "section.study-abroad"
-
-[[menu.main]]
-    name       = "Pudget Sound University"
-    url        = "/study-abroad/puget-sound/"
     weight     = 4
     parent     = "section.study-abroad"
 
